@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '5856'
     url: http://www.gutenberg.org/2009/agents/5856
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15102#Proposals-for-Building-In-Every-County-A-Working-Alms-House-or-Hospital--13-Cloth
 gutenberg_issued: '2005-02-18'
 gutenberg_type: Text
 identifiers:
